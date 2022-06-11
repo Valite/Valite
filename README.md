@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working with PL/SQL 
+- 💻 I’m currently working with PL/SQL on NTT Data
 - 🌱 I’m currently learning Django, Qt-PySide
 
 # About me
